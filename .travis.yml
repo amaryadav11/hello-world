@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - 12.14.1
+cache: npm
+
+
+install:
+  - npm ci
+
+script:
+  - npm test
+  - npm run build
+
+deploy:
+  provide: pages
+  skip-clean: true
+  github-token: $GITHUB_TOKEN
