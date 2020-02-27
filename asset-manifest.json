@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hello-world/static/css/main.429fb3fa.chunk.css",
+    "main.js": "/hello-world/static/js/main.042fbded.chunk.js",
+    "main.js.map": "/hello-world/static/js/main.042fbded.chunk.js.map",
+    "runtime-main.js": "/hello-world/static/js/runtime-main.a0f97cd6.js",
+    "runtime-main.js.map": "/hello-world/static/js/runtime-main.a0f97cd6.js.map",
+    "static/js/2.0cc654b1.chunk.js": "/hello-world/static/js/2.0cc654b1.chunk.js",
+    "static/js/2.0cc654b1.chunk.js.map": "/hello-world/static/js/2.0cc654b1.chunk.js.map",
+    "index.html": "/hello-world/index.html",
+    "precache-manifest.890e3d35c7d5d948879651facccae3c2.js": "/hello-world/precache-manifest.890e3d35c7d5d948879651facccae3c2.js",
+    "service-worker.js": "/hello-world/service-worker.js",
+    "static/css/main.429fb3fa.chunk.css.map": "/hello-world/static/css/main.429fb3fa.chunk.css.map",
+    "static/js/2.0cc654b1.chunk.js.LICENSE.txt": "/hello-world/static/js/2.0cc654b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0f97cd6.js",
+    "static/js/2.0cc654b1.chunk.js",
+    "static/css/main.429fb3fa.chunk.css",
+    "static/js/main.042fbded.chunk.js"
+  ]
+}
